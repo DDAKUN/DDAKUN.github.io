@@ -17,28 +17,9 @@
 
 My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). 
 
-My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques.I have also been involved in several GIS projects, which enhance engineering abilities. I also enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
+My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
-I can be reached at <span id="_eml" class="gl-eml">zhoujiahao at whu dot edu dot cn</span>.
-
-```bio-remove
-Below we use a simple mechanism to mitigate email address reaping.
-Change the encoding for your own email address.
-```
-
-<!--[bio][protect]
-<script type="application/javascript">
-window.setTimeout(function ()
-{
-var addr = [115,111,109,101,111,110,101,64,101,120,97,109,112,108,101,46,99,111,109];
-addr = String.fromCharCode.apply(String, addr);
-var eml = document.getElementById('_eml');
-eml.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
-eml.removeAttribute('class');
-}, 600);
-</script>
-[bio]-->
-
+I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## News
 
@@ -64,8 +45,8 @@ eml.removeAttribute('class');
   biosite_venue={2022 29th International Conference on Geoinformatics},
   biosite_url={https://ieeexplore.ieee.org/document/9963872}
 }
-
 ```
+
 ## Competition Awards
 * 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 * **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
