@@ -48,25 +48,21 @@ This is an example personal homepage built with [bio-site](https://github.com/Ge
 @inproceedings{zhou2022optimized,
   title={Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation},
   author={Zhou, Jiahao and Li, Boheng and Meng, Qingxiang},
-  booktitle={2022 29th International Conference on Geoinformatics},
-  pages={1--5},
-  year={2022},
-  organization={IEEE}
+  biosite_venue={2022 29th International Conference on Geoinformatics}
+  biosite_url={https://ieeexplore.ieee.org/document/9963835}
 }
 
 @Journal{zhou2022comprehensive,
   title={A comprehensive and standardized wildfire incident database design, implementation, and application},
-  booktitle={In Submission}
+  biosite_venue={In Submission}
 }
 
 
 @inproceedings{luo2022comprehensive,
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
   author={Luo, Tingyu and Li, Boheng and Zhou, Jiahao and Meng, Qingxiang},
-  booktitle={2022 29th International Conference on Geoinformatics},
-  pages={1--6},
-  year={2022},
-  organization={IEEE}
+  biosite_venue={2022 29th International Conference on Geoinformatics},
+  biosite_url={https://ieeexplore.ieee.org/document/9963872}
 }
 
 ```
