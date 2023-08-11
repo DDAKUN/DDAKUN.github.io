@@ -17,9 +17,9 @@
 
 My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). 
 
-My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques.I have also been involved in several GIS projects, which enhance engineering abilities. I also enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments. 
+My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques.I have also been involved in several GIS projects, which enhance engineering abilities. I also enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
-I can be reached at <span id="_eml" class="gl-eml">zhoujiahao@whu.edu.cn</span>.
+I can be reached at <span id="_eml" class="gl-eml">zhoujiahao at whu dot edu dot cn</span>.
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
@@ -48,7 +48,7 @@ eml.removeAttribute('class');
 @inproceedings{zhou2022optimized,
   title={Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation},
   author={Zhou, Jiahao and Li, Boheng and Meng, Qingxiang},
-  biosite_venue={2022 29th International Conference on Geoinformatics}
+  biosite_venue={2022 29th International Conference on Geoinformatics},
   biosite_url={https://ieeexplore.ieee.org/document/9963835}
 }
 
