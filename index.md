@@ -34,7 +34,7 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 }
 
 @Journal{zhou2022comprehensive,
-  title={A comprehensive and standardized wildfire incident database design, implementation, and application},
+  title={A Comprehensive and Standardized Wildfire Incident Database Design, Implementation, and Application},
   biosite_venue={In Submission}
 }
 
