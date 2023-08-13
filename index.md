@@ -73,7 +73,7 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 ## Activities
 
 ### Invited Talks
-* 创赛经验分享, 武汉大学青创营, Winter 2022. [[Slides]](https://github.com/DDAKUN/DDAKUN.github.io/tree/master/docs/Youth_Innovation_Camp.pdf)
+* 创赛经验分享, 武汉大学青创营, Winter 2022. [[Slides]](https://github.com/DDAKUN/DDAKUN.github.io/raw/master/docs/Youth_Innovation_Camp.pdf)
 * 科研经验分享, 武汉大学本科生院, Summer 2022. [[Link]](https://mp.weixin.qq.com/s/-0izTTBM3ijwiVrmuvOb9Q)
 
 ### Teaching Assistant
