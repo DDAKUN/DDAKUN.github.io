@@ -29,12 +29,12 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 @inproceedings{zhou2022optimized,
   title={Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation},
   author={Zhou, Jiahao and Li, Boheng and Meng, Qingxiang},
-  biosite_venue={2022 29th International Conference on Geoinformatics},
+  biosite_venue={2022 29th International Conference on Geoinformatics, EI},
   biosite_url={https://ieeexplore.ieee.org/document/9963835}
 }
 
 @Journal{zhou2022comprehensive,
-  title={A Comprehensive and Standardized Wildfire Incident Database Design, Implementation, and Application},
+  title={A Comprehensive and Standardized Wildfire Incident Database:Design, Implementation, and Application},
   biosite_venue={In Submission}
 }
 
@@ -42,8 +42,14 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 @inproceedings{luo2022comprehensive,
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
   author={Luo, Tingyu and Li, Boheng and Zhou, Jiahao and Meng, Qingxiang},
-  biosite_venue={2022 29th International Conference on Geoinformatics},
+  biosite_venue={2022 29th International Conference on Geoinformatics, EI},
   biosite_url={https://ieeexplore.ieee.org/document/9963872}
+}
+
+@inproceedings{patent,
+  title={基于实时覆盖面积评估的卫星星座构型方法及设备},
+  author={周家豪，孟庆祥},
+  biosite_venue={国家发明专利（中国）}
 }
 ```
 
@@ -65,3 +71,10 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 * *2017.09 - 2020.06*, Senior Middle School, Competition class, Qianjiang High School, China.
 
 ## Activities
+
+### Invited Talks
+* 创赛经验分享, 武汉大学青创营, Winter 2022. [[Slides]](https://github.com/DDAKUN/DDAKUN.github.io/tree/master/docs/Youth_Innovation_Camp.pdf)
+* 科研经验分享, 武汉大学本科生院, Summer 2022. [[Link]](https://mp.weixin.qq.com/s/-0izTTBM3ijwiVrmuvOb9Q)
+
+### Teaching Assistant
+* Teaching Assistant, Java Network Programming, Undergrads, WHU, Spring 2022.
