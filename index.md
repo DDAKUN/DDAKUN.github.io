@@ -5,7 +5,7 @@
     "description": "Jiahao Zhou Personal HomePage.",
     "url": "https://DDAKUN.github.io/",
     "assets": "https://DDAKUN.github.io/assets",
-    "date-created": "2023-08-11",
+    "date-created": "2023-09-28",
     "repo": "https://github.com/DDAKUN/DDAKUN.github.io",
     "tilecolor": "#f2f2f2"
 }
@@ -22,6 +22,7 @@ My research interest lies in Geoinformatics and 3D Computer Vision. Supervised b
 I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## News
+* *2023.09*: Invited by my good friend [Boheng Li](https://antigonerandy.github.io/) to attend the weekly meeting and share the competition experience for undergraduates. The facilities near WHU NCC have improved again! A very good experience!
 
 ## Publications
 
