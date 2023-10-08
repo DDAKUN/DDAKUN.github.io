@@ -5,7 +5,7 @@
     "description": "Jiahao Zhou Personal HomePage.",
     "url": "https://DDAKUN.github.io/",
     "assets": "https://DDAKUN.github.io/assets",
-    "date-created": "2023-09-28",
+    "date-created": "2023-10-08",
     "repo": "https://github.com/DDAKUN/DDAKUN.github.io",
     "tilecolor": "#f2f2f2"
 }
@@ -34,11 +34,15 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
   biosite_url={https://ieeexplore.ieee.org/document/9963835}
 }
 
-@Journal{zhou2022comprehensive,
+@Journal{zhou2023comprehensive,
   title={A Comprehensive and Standardized Wildfire Incident Database:Design, Implementation, and Application},
   biosite_venue={In Submission}
 }
 
+@Journal{zhou2023Synthetic,
+  title={WHU-Synthetic: A Synthetic Dataset for Multi-Task Learning},
+  biosite_venue={In Submission}
+}
 
 @inproceedings{luo2022comprehensive,
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
@@ -63,6 +67,8 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 * **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
 
 ## Scholarships and Honors
+* 2023.10 **Merit Student** *Wuhan University*
+* 2023.10 **First Class Scholarship of WHU** *Wuhan University*
 * *2022.07, 2023.07* **Admissions Ambassadort** *Wuhan University*
 * *2022.04* **Social Activist** *Wuhan University*
 * *2021.10* **Merit Student** *Wuhan University* 
@@ -79,3 +85,7 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ### Teaching Assistant
 * Teaching Assistant, Java Network Programming, Undergrads, WHU, Spring 2022.
+
+## Internship
+
+* Algorithm Engineer, Guangzhou-Foshan Center, [Beijing GSafey Technology Co., Ltd](http://global.gsafety.com/), Summer 2022
