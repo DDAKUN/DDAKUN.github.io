@@ -22,6 +22,7 @@ My research interest lies in Geoinformatics and 3D Computer Vision. Supervised b
 I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## News
+* *2023.10*: Employed as a peer mentor for the Wuhan University Youth Innovation Camp.
 * *2023.09*: Invited by my good friend [Boheng Li](https://antigonerandy.github.io/) to attend the weekly meeting and share the competition experience for undergraduates. The facilities near WHU NCC have improved again! A very good experience!
 
 ## Publications
@@ -88,4 +89,4 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## Internship
 
-* Algorithm Engineer, Guangzhou-Foshan Center, [Beijing GSafey Technology Co., Ltd](http://global.gsafety.com/), Summer 2022
+* Algorithm Engineer, Guangzhou-Foshan Center, [Beijing GSafey Technology Co., Ltd](http://global.gsafety.com/), Summer 2023.
