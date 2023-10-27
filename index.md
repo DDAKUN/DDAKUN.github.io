@@ -49,7 +49,7 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
   author={Luo, Tingyu and Li, Boheng and Zhou, Jiahao and Meng, Qingxiang},
   biosite_venue={2022 29th International Conference on Geoinformatics, EI},
-  biosite_url=https://ieeexplore.ieee.org/document/9963810}
+  biosite_url={https://ieeexplore.ieee.org/document/9963810}
 }
 
 @inproceedings{patent,
