@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Jiahao Zhou" width="160" height="160" style="max-width: 160px;" /></figure>
 
-My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). 
+My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
 My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
@@ -36,12 +36,12 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 }
 
 @Journal{zhou2023comprehensive,
-  title={A Comprehensive and Standardized Wildfire Incident Database:Design, Implementation, and Application},
+  title={A Comprehensive and Standardized Wildfire Incident Database: Design, Implementation, and Application},
   biosite_venue={In Submission}
 }
 
 @Journal{zhou2023Synthetic,
-  title={WHU-Synthetic: A Synthetic Dataset for Multi-Task Learning},
+  title={WHU-Synthetic: A 3D Perception Dataset for Multi-Task Model Research},
   biosite_venue={In Submission}
 }
 
@@ -49,7 +49,7 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
   author={Luo, Tingyu and Li, Boheng and Zhou, Jiahao and Meng, Qingxiang},
   biosite_venue={2022 29th International Conference on Geoinformatics, EI},
-  biosite_url={https://ieeexplore.ieee.org/document/9963872}
+  biosite_url=https://ieeexplore.ieee.org/document/9963810}
 }
 
 @inproceedings{patent,
