@@ -21,11 +21,13 @@ My research interest lies in Geoinformatics and 3D Computer Vision. Supervised b
 
 I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
-## News
+## News📰
+* *2024.01*: Our team won the **Outstanding Prize** of Innova University Student Innovation Achievement Award (2 candidates per year in WHU).
+* *2023.11*: Admitted to the Master's program in Safety Engineering at the Department of Engineering Physics, Tsinghua University with the **1st rank**. 
 * *2023.10*: Employed as a peer mentor for the Wuhan University Youth Innovation Camp.
 * *2023.09*: Invited by my good friend [Boheng Li](https://antigonerandy.github.io/) to attend the weekly meeting and share the competition experience for undergraduates. The facilities near WHU NCC have improved again! A very good experience!
 
-## Publications
+## Publications📚
 
 ```blog-bib
 @inproceedings{zhou2022optimized,
@@ -68,8 +70,9 @@ I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 * **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
 
 ## Scholarships and Honors
-* 2023.10 **Merit Student** *Wuhan University*
-* 2023.10 **First Class Scholarship of WHU** *Wuhan University*
+* *2024.1* **Outstanding Prize of Innova University Student Innovation Achievement Award** (2 candidates per year in WHU) *Wuhan University & [Pasaca Capital Inc.](https://pasacacapital.com/) & [Innova Medical Group Inc.](https://innovamedgroup.us/)*
+* *2023.10* **Merit Student** *Wuhan University*
+* *2023.10* **First Class Scholarship of WHU** *Wuhan University*
 * *2022.07, 2023.07* **Admissions Ambassadort** *Wuhan University*
 * *2022.04* **Social Activist** *Wuhan University*
 * *2021.10* **Merit Student** *Wuhan University* 
