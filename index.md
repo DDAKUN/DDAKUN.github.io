@@ -5,7 +5,7 @@
     "description": "Jiahao Zhou Personal HomePage.",
     "url": "https://DDAKUN.github.io/",
     "assets": "https://DDAKUN.github.io/assets",
-    "date-created": "2023-10-08",
+    "date-created": "2023-07-20",
     "repo": "https://github.com/DDAKUN/DDAKUN.github.io",
     "tilecolor": "#f2f2f2"
 }
@@ -19,38 +19,51 @@ My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at 
 
 My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
-I can be reached at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
+You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## News📰
+* *2024.04*: One paper is accepted by **Fire**!
+* *2024.03*: One paper is accepted by **JAG**!
 * *2024.01*: Our team won the **Outstanding Prize** of Innova University Student Innovation Achievement Award (2 candidates per year in WHU).
-* *2023.11*: Admitted to the Master's program in Safety Engineering at the Department of Engineering Physics, Tsinghua University with the **1st rank**. 
+* *2023.11*: Admitted to the Master's program in Safety Engineering at the Department of Engineering Physics, Tsinghua University with the **1st Rank**. 
 * *2023.10*: Employed as a peer mentor for the Wuhan University Youth Innovation Camp.
 * *2023.09*: Invited by my good friend [Boheng Li](https://antigonerandy.github.io/) to attend the weekly meeting and share the competition experience for undergraduates. The facilities near WHU NCC have improved again! A very good experience!
 
 ## Publications📚
 
 ```blog-bib
-@inproceedings{zhou2022optimized,
-  title={Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation},
-  author={Zhou, Jiahao and Li, Boheng and Meng, Qingxiang},
-  biosite_venue={2022 29th International Conference on Geoinformatics, EI},
-  biosite_url={https://ieeexplore.ieee.org/document/9963835}
+@Journal{fire7040141,
+  title={Comparing Accuracy of Wildfire Spread Prediction Models under Different Data Deficiency Conditions},
+  author = {Zhou, Jiahao and Jiang, Wenyu and Wang, Fei and Qiao, Yuming and Meng, Qingxiang},
+  biosite_venue={Fire},
+  biosite_url={https://www.mdpi.com/2571-6255/7/4/141}
 }
 
-@Journal{zhou2023comprehensive,
-  title={A Comprehensive and Standardized Wildfire Incident Database: Design, Implementation, and Application},
-  biosite_venue={In Submission}
+@Journal{jiang2024wildfire,
+  title={Wildfire Risk Assessment using Deep Learning in Guangdong Province, China},
+  author = {Jiang, Wenyu and Qiao, Yuming and Zheng, Xinxin and Zhou, Jiahao and Jiang, Juncai and Meng, Qingxiang and Su, Guofeng and Zhong, Shaobo and Wang, Fei},
+  biosite_venue={International Journal of Applied Earth Observation and Geoinformation},
+  biosite_url={https://authors.elsevier.com/sd/article/S1569-8432(24)00104-3}
 }
 
 @Journal{zhou2023Synthetic,
   title={WHU-Synthetic: A 3D Perception Dataset for Multi-Task Model Research},
-  biosite_venue={In Submission}
+  biosite_venue={In Submission},
+  author={Zhou, Jiahao and Long, Chen and Xie, Yue and Wang, Jialiang and Li, Boheng and Wang, Haiping and Chen, Zhe and Dong, Zhen},
+  biosite_arxiv={2402.19059}
+}
+
+@inproceedings{zhou2022optimized,
+  title={Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation},
+  author={Zhou, Jiahao and Li, Boheng and Meng, Qingxiang},
+  biosite_venue={2022 29th International Conference on Geoinformatics},
+  biosite_url={https://ieeexplore.ieee.org/document/9963835}
 }
 
 @inproceedings{luo2022comprehensive,
   title={Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS},
   author={Luo, Tingyu and Li, Boheng and Zhou, Jiahao and Meng, Qingxiang},
-  biosite_venue={2022 29th International Conference on Geoinformatics, EI},
+  biosite_venue={2022 29th International Conference on Geoinformatics},
   biosite_url={https://ieeexplore.ieee.org/document/9963810}
 }
 
