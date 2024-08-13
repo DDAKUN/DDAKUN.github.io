@@ -22,6 +22,7 @@ My research interest lies in Geoinformatics and 3D Computer Vision. Supervised b
 You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 ## News📰
+* *2024.06*: Graduated from Wuhan University! I earned the top spot and received the award for Outstanding Bachelor's Thesis! Big thanks to my advisor and everyone who supported me!
 * *2024.04*: One paper is accepted by **Fire**!
 * *2024.03*: One paper is accepted by **JAG**!
 * *2024.01*: Our team won the **Outstanding Prize** of Innova University Student Innovation Achievement Award (2 candidates per year in WHU).
@@ -72,17 +73,31 @@ You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
   author={周家豪，孟庆祥},
   biosite_venue={国家发明专利（中国）}
 }
+
+@inproceedings{patent,
+  title={一种顾及DSM模型的多无人机协同三维航迹规划方法},
+  author={周家豪，孟庆祥，李勃衡},
+  biosite_venue={国家发明专利（中国）}
+}
+
+@inproceedings{patent,
+  title={一种基于元胞自动机的森林火灾蔓延模拟方法},
+  author={罗婷瑜，周家豪。李勃衡，林思行},
+  biosite_venue={国家发明专利（中国）}
+}
 ```
 
 ## Competition Awards
 * 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 * **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
+* **Champion** The 3rd Wuhan Student "Hero Cup" Innovation and Entrepreneurship Competition
 * **Golden Prize of Hubei Province.** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
 * **Outstanding Winner Award.** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
 * **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
 * **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
 
 ## Scholarships and Honors
+* *2024.6* **Outstanding Bachelor's Thesis** *Wuhan University*
 * *2024.1* **Outstanding Prize of Innova University Student Innovation Achievement Award** (2 candidates per year in WHU) *Wuhan University & [Pasaca Capital Inc.](https://pasacacapital.com/) & [Innova Medical Group Inc.](https://innovamedgroup.us/)*
 * *2023.10* **Merit Student** *Wuhan University*
 * *2023.10* **First Class Scholarship of WHU** *Wuhan University*
