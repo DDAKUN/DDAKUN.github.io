@@ -20,7 +20,7 @@ My name is Jiahao Zhou (周家豪). I’m currently a Master student at the [Sch
 My research interest lies in Intelligent forest fire monitoring and disaster situational awareness.
 I received my B.E. degree from the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). In my undergraduate years, supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on 3D point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
-You can reach me at [zhoujh24@mails.tsinghua.edu.cn](mailto:zhoujh24@mails.tsinghua.edu.cn)
+You can reach me at [zhoujh24@mails.tsinghua.edu.cn](mailto:zhoujh24@mails.tsinghua.edu.cn).
 
 ## News📰
 * *2024.06*: Graduated from Wuhan University! I earned the top spot and received the award for Outstanding Bachelor's Thesis! Big thanks to my advisor and everyone who supported me!
