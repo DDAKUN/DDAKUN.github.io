@@ -13,13 +13,14 @@
 
 # Jiahao Zhou(周家豪)
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Jiahao Zhou" width="160" height="160" style="max-width: 160px;" /></figure>
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of Jiahao Zhou" width="180" height="240" style="max-width: 240px;" /></figure>
 
-My name is Jiahao Zhou (周家豪), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/).
+My name is Jiahao Zhou (周家豪). I’m currently a Master student at the [School of Safety Science](https://www.ssafs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) under the supervision of Prof. [Fei Wang](https://www.sigs.tsinghua.edu.cn/wf/).
 
-My research interest lies in Geoinformatics and 3D Computer Vision. Supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
+My research interest lies in Intelligent forest fire monitoring and disaster situational awareness.
+I received my B.E. degree from the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/). In my undergraduate years, supervised by Prof. [Qingxiang Meng](http://jszy.whu.edu.cn/mengqingxiang/zh_CN/index.htm), I founded AntiE Team with [Boheng Li](https://antigonerandy.github.io/), [Sixing Lin](https://defaultlin.cn/), Tingyu Luo and Xinyue Zhang, which aims at developing emergency monitoring technologies derivation via remote sensing techniques. I have also been involved in several GIS projects, which enhance engineering abilities. Meanwhile, I enjoyed a great time conducting research on 3D point cloud processing under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/), exploring multi-task learning in synthetic environments.
 
-You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
+You can reach me at [zhoujh24@mails.tsinghua.edu.cn](mailto:zhoujh24@mails.tsinghua.edu.cn)
 
 ## News📰
 * *2024.06*: Graduated from Wuhan University! I earned the top spot and received the award for Outstanding Bachelor's Thesis! Big thanks to my advisor and everyone who supported me!
@@ -82,7 +83,7 @@ You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 
 @inproceedings{patent,
   title={一种基于元胞自动机的森林火灾蔓延模拟方法},
-  author={罗婷瑜，周家豪。李勃衡，林思行},
+  author={罗婷瑜，周家豪，李勃衡，林思行},
   biosite_venue={国家发明专利（中国）}
 }
 ```
@@ -90,7 +91,7 @@ You can reach me at [zhoujiahao@whu.edu.cn](mailto:zhoujiahao@whu.edu.cn)
 ## Competition Awards
 * 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 * **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
-* **Champion** The 3rd Wuhan Student "Hero Cup" Innovation and Entrepreneurship Competition
+* **Champion**. The 3rd Wuhan Student "Hero Cup" Innovation and Entrepreneurship Competition
 * **Golden Prize of Hubei Province.** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
 * **Outstanding Winner Award.** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
 * **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
