@@ -39,3 +39,9 @@ collections:
   - news
   - misc
   - showcase
+
+category_order:
+  - competition-awards
+  - invited-talks
+  - internship
+  - teaching-assistant
