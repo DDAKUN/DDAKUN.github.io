@@ -18,5 +18,5 @@ authors:
   - Guofeng Su
   - Fei Wang
 links:
-  Arxiv: https://www.sciencedirect.com/science/article/pii/S2212420924009130
+  Link: https://www.sciencedirect.com/science/article/pii/S2212420924009130
 ---
