@@ -1,8 +1,8 @@
 ---
 title:          "WHU-Synthetic: A Synthetic Perception Dataset for 3D Multi-Task Model Research"
-date:           2024-02-29 00:01:00 +0800
+date:           2025-02-16 00:01:00 +0800
 selected:       true
-pub:            "ArXiv preprint"
+pub:            "IEEE TGRS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -21,5 +21,6 @@ authors:
   - Zhe Chen
   - Zhen Dong
 links:
-  Arxiv: https://arxiv.org/abs/2402.19059
+  Link: https://ieeexplore.ieee.org/abstract/document/10879799
+  Dataset: https://github.com/WHU-USI3DV/WHU-Synthetic
 ---
